@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+httpx
+requests
+google-generativeai
+google-ai-generativelanguage
+python-dotenv
+pillow
+
